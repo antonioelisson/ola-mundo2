@@ -1,2 +1,2 @@
-# ola-mundo2
- treino 
+# Olá, mundo!
+Repositório refeito para treinar.
